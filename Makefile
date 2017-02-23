@@ -15,7 +15,7 @@
 
 .PHONY:	build push
 
-TAG = v5.2.1-6
+TAG = v5.2.1
 PREFIX = rosskukulinski
 
 build:
